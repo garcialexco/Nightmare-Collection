@@ -16,18 +16,18 @@
     max-width: 80rem;
     margin: auto;
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
     flex-wrap: wrap;
     gap: 3rem;
   }
   #hero-1856 .cs-content {
-    text-align: left;
+    text-align: center;
     width: 100%;
     max-width: 46.875rem;
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
+    align-items: center;
     position: relative;
     z-index: 1;
   }
@@ -39,7 +39,7 @@
   }
   #hero-1856 .cs-title,
   #hero-1856 .cs-text {
-    text-align: left;
+    text-align: center;
     color: var(--bodyTextColorWhite);
   }
   #hero-1856 .cs-text {
@@ -59,7 +59,6 @@
     padding: 0 1.5rem;
     background-color: var(--primary);
     color: var(--bodyTextColorWhite);
-    border-radius: 0.25rem;
     display: inline-block;
     position: relative;
     z-index: 1;
@@ -70,7 +69,6 @@
     height: 100%;
     background: #000;
     opacity: 1;
-    border-radius: 0.25rem;
     position: absolute;
     top: 0;
     left: 0;

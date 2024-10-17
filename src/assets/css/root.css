@@ -127,11 +127,14 @@
   html {
     margin: 0;
     padding: 0;
-    font-family: "Teko", sans-serif;
+    font-family: "Metal Mania", sans-serif;
     font-optical-sizing: auto;
     font-size: 100%;
     color: var(--bodyTextColor);
     overflow-x: hidden;
+  }
+  .cs-text {
+    font-family: "Fjord", serif;
   }
   *,
   *:before,
